@@ -1,3 +1,5 @@
+#Try to configure the widget with various options like: bg=”red”, family=”times”, size=18
+
 from tkinter import *
 from tkinter import messagebox
 

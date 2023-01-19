@@ -1,3 +1,5 @@
+#Try to change the widget type and configuration options to experiment with other widget types like Message, Button, Entry, Checkbutton, Radiobutton,Scale etc.
+
 from tkinter import *
 from tkinter import messagebox
 
