@@ -1,6 +1,6 @@
 # Write a Python program to read last n lines of a file.
 
-obj = open('D://Practicals//Python//Text_Files//2nd.txt', 'r')
+obj = open('D://Practicals//Python//Practical 6//Text_Files//2nd.txt', 'r')
 
 n = int(input('Enter the number of last line to read: '))
  
